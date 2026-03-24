@@ -4,12 +4,21 @@
 	font-family: Arial;
 }
 
+html{
+	width: 100%;
+	height: 100%;
+}
+
 body{
 	margin: 1rem;
+	background: url ("06-off-the-grid/6-3/assets/img/flames.gif")
 	background-color: black;
 	color: whitesmoke;
 	font-size: 5rem;
 	overflow: hidden;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
 }
 
 .grid-container{
