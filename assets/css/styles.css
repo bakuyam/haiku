@@ -11,7 +11,7 @@ html{
 
 body{
 	margin: 1rem;
-	background: url ("(https://github.com/criticalwebdesign/book/blob/main/06-off-the-grid/6-3/assets/img/flames.gif?raw%3Dtrue)/img/flames.gif")
+	background: url("../img/flames.gif")
 	background-color: black;
 	color: whitesmoke;
 	font-size: 5rem;
