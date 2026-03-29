@@ -9,6 +9,11 @@ html{
 	height: 100%;
 }
 
+div{
+	transition-property:transform;
+	transition-duration: 3s;
+}
+
 body{
 	margin: 1rem;
 	background: url("../img/flames.gif")
